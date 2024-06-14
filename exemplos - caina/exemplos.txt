@@ -1,0 +1,22 @@
+//System.out.println(str.length());
+        // length quantidade de caracteres,ele contou quantos caracteres tem a frase Hello World
+
+        //System.out.println(str.indexOf('e'));
+        //posição em que se encontra o caractere no caso o e está no 1 pq o indice começa em 0
+        //System.out.println(str.indexOf('0'));
+        //retorna negativo pq não existe 0
+
+        //System.out.println(str.charAt(5));
+        //retorna o caracter que se encontra na posição que eu passar que no caso foi 5 então retornour a ","
+
+        //System.out.println(str.substring(7));
+        //quebra a frase e conta somente a partir do numero que eu passar que no caso foi 7 que apareceu o World
+
+        //System.out.println(str.substring(7,9));
+        //retornou o WO pq o W está no 7 e o está no 9
+        
+        //System.out.println(str.replace('e', 'E'));
+        //altera as letras no caso o a minusculo alterou para maiusculo
+
+        //System.out.println(str.replaceFirst("Hello","HELLO"));
+        //ele altera o parametro que eu passo, passei leticia e quis que ele deixasse LETICIA
